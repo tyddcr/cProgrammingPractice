@@ -1,3 +1,3 @@
 # cProgrammingPractice
 
-This is the repository for C programming practices.
+This is a repository for C programming practices.
