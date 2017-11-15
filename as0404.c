@@ -15,7 +15,7 @@ int main(void)
 		temp = temp * (temp + 1);
 	}
 
-	printf("e = %f", e);
+	printf("e = %f\n", e);
 	
 	return 0;
 }
