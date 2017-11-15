@@ -12,7 +12,7 @@ int main(void)
 
 	while (temp <= PRECISION) {
 		e = e + 1 / (double) temp;
-		temp++;
+		temp = temp * (temp + 1);
 	}
 
 	printf("e = %f", e);
