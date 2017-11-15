@@ -15,7 +15,7 @@ int main(void)
 				sum += j;
 		}
 		if (sum == num)
-			printf("%5d", num);
+			printf("%d ", num);
 	}
 
 	putchar('\n');
